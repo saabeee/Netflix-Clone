@@ -182,6 +182,9 @@ body {
 }
 
 @media (max-width:771px) {
+    nav img{
+        width: 120px;
+    }
     ul {
         align-items: center;
     }
